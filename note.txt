@@ -1,0 +1,9 @@
+Admin:
+
+User: Thu2123@gmail.com
+Password: admin
+
+Customer:
+
+User:vinh@gmail.com
+Password: vinh123

@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\HK_I_nam3\\HK_I_nam3\\Cong Nghe.NET\\Do An New\\CashFlowManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8227B0EC-E867-4FF6-ADAA-5A6607708F3F}|CentosCashFlow\\CentosCashFlow.csproj|e:\\hk_i_nam3\\hk_i_nam3\\cong nghe.net\\do an new\\cashflowmanagement\\centoscashflow\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8227B0EC-E867-4FF6-ADAA-5A6607708F3F}|CentosCashFlow\\CentosCashFlow.csproj|solutionrelative:centoscashflow\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8227B0EC-E867-4FF6-ADAA-5A6607708F3F}|CentosCashFlow\\CentosCashFlow.csproj|e:\\hk_i_nam3\\hk_i_nam3\\cong nghe.net\\do an new\\cashflowmanagement\\centoscashflow\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8227B0EC-E867-4FF6-ADAA-5A6607708F3F}|CentosCashFlow\\CentosCashFlow.csproj|solutionrelative:centoscashflow\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8227B0EC-E867-4FF6-ADAA-5A6607708F3F}|CentosCashFlow\\CentosCashFlow.csproj|E:\\HK_I_nam3\\HK_I_nam3\\Cong Nghe.NET\\Do An New\\CashFlowManagement\\centoscashflow\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8227B0EC-E867-4FF6-ADAA-5A6607708F3F}|CentosCashFlow\\CentosCashFlow.csproj|solutionrelative:centoscashflow\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "E:\\HK_I_nam3\\HK_I_nam3\\Cong Nghe.NET\\Do An New\\CashFlowManagement\\CentosCashFlow\\Login.cs",
+              "RelativeDocumentMoniker": "CentosCashFlow\\Login.cs",
+              "ToolTip": "E:\\HK_I_nam3\\HK_I_nam3\\Cong Nghe.NET\\Do An New\\CashFlowManagement\\CentosCashFlow\\Login.cs [Design]",
+              "RelativeToolTip": "CentosCashFlow\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:57:06.27Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "E:\\HK_I_nam3\\HK_I_nam3\\Cong Nghe.NET\\Do An New\\CashFlowManagement\\CentosCashFlow\\Models\\DbContext.cs",
+              "RelativeDocumentMoniker": "CentosCashFlow\\Models\\DbContext.cs",
+              "ToolTip": "E:\\HK_I_nam3\\HK_I_nam3\\Cong Nghe.NET\\Do An New\\CashFlowManagement\\CentosCashFlow\\Models\\DbContext.cs",
+              "RelativeToolTip": "CentosCashFlow\\Models\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:43:41.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\HK_I_nam3\\HK_I_nam3\\Cong Nghe.NET\\Do An New\\CashFlowManagement\\CentosCashFlow\\Login.cs",
+              "RelativeDocumentMoniker": "CentosCashFlow\\Login.cs",
+              "ToolTip": "E:\\HK_I_nam3\\HK_I_nam3\\Cong Nghe.NET\\Do An New\\CashFlowManagement\\CentosCashFlow\\Login.cs",
+              "RelativeToolTip": "CentosCashFlow\\Login.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:39:01.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
